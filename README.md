@@ -7,7 +7,7 @@
 ## Hi there, I'm Zaki!
 
 <ul>
-  <li>🏫 I'm currently an engineering computer science student at the Higher School of Computer Science at Sidi Bel Abbes ( ESI SBA ) </li>
+  <li>🏫 I'm an engineering computer science student at the Higher School of Computer Science at Sidi Bel Abbes, Algeria ( ESI SBA ) </li>
   <li>🤖 I'm interested in Software engineering and Artificial Intelligence</li>
 </ul>
 
